@@ -19,7 +19,6 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: ${{ matrix.node-version }}
+          who-to-greet: 'World'
       - run: npm install
       - run: node index.js
-        with:
-          who-to-greet: 'World'

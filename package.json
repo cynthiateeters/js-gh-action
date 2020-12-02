@@ -14,9 +14,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kubowania/my-javascript-action/issues"
+    "url": "https://github.com/cynthiateeters/js-gh-action/issues"
   },
-  "homepage": "https://github.com/kubowania/my-javascript-action#readme",
+  "homepage": "https://github.com/cynthiateeters/js-gh-action#readme",
   "dependencies": {
     "@actions/core": "^1.2.5",
     "@actions/github": "^4.0.0"
